@@ -1,1 +1,0 @@
-/home/anmol/msproject/NPB2.3/NPB2.3-MPI/NASA-Parallel-Benchmarks/MPI_dummy/Makefile
