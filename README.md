@@ -32,3 +32,6 @@ Makefile to $home-directory/MPI_dummy
 If during make mpi.h files are not found then run the following command:
       find /usr/ -name \mpif.h 2>/dev/null
 and copy the path to mpi.h to CMPI_INC variable in make.def
+
+
+Official Website: https://www.nas.nasa.gov/publications/npb.html
