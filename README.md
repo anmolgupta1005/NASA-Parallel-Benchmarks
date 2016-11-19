@@ -1,7 +1,7 @@
 # NASA NPB-MPI-Config-Files
 
 
-Config files  to install the Nasa Parallel Benchmarks.
+Config files  to install the NASA Parallel Benchmarks.
 
 #  Build Benchmarks
 
@@ -14,7 +14,7 @@ To make a single NAS benchmark type
 
 where: 
 benchmark-name is bt cg, ep, ft, is, lu, mg, or s
-number        is the number of processors
+number         is the number of processors
 class          is S, W, A, B or C
 
 Run the following command to build the entire suite at once:
